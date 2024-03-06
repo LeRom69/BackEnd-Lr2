@@ -1,0 +1,23 @@
+.x{
+    position: relative;
+    left: 80px;
+    top: -21px;
+}
+
+.y{
+    position: relative; 
+    left: 98px;
+    top:-21px
+}
+
+.wrapper{
+    display: flex;
+}
+
+input{
+    margin-right: 10px
+}
+
+.button{
+    width: 210px;
+}
